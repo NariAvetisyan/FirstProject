@@ -1,1 +1,1 @@
-print('mushex')
+print('naira')
